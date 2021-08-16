@@ -4,7 +4,7 @@
  * @time: 2021/8/10 14:35
  */
 public class Animal {
-
+/*我对这里进行了修改*/
     static {
         num = 12;
     }
