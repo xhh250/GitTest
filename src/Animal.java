@@ -5,6 +5,7 @@
  */
 public class Animal {
 /*我对这里进行了修改*/
+    int i = 0;
     static {
         num = 12;
     }
